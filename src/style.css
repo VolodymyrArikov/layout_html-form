@@ -1,1 +1,52 @@
 /* styles go here */
+.text-form {
+  display: block;
+  margin-bottom: 20px;
+
+}
+
+.date-form {
+  display: block;
+  margin-bottom: 10px;
+
+}
+
+.range-form {
+  display: block;
+  margin-bottom: 10px;
+
+}
+
+.check-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.time-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.radio-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.volume-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.textarea-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.select-form {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.field {
+  margin-bottom: 20px;
+}
