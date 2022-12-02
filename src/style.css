@@ -1,8 +1,27 @@
 /* styles go here */
 .text-form {
   display: block;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 
+}
+
+.text-form-surname {
+  display: block;
+  margin-bottom: 10px;
+
+}
+
+.text-form-pass {
+  display: block;
+}
+
+.check-form-terms {
+  display: block;
+}
+
+.color-form {
+  display: block;
+  margin-bottom: 10px;
 }
 
 .date-form {
@@ -19,7 +38,6 @@
 
 .check-form {
   display: block;
-  margin-bottom: 10px;
 }
 
 .time-form {
@@ -34,7 +52,6 @@
 
 .volume-form {
   display: block;
-  margin-bottom: 10px;
 }
 
 .textarea-form {
