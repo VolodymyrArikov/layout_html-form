@@ -1,69 +1,44 @@
 /* styles go here */
 .text-form {
-  display: block;
   margin-bottom: 10px;
-
 }
 
 .text-form-surname {
-  display: block;
   margin-bottom: 10px;
-
-}
-
-.text-form-pass {
-  display: block;
-}
-
-.check-form-terms {
-  display: block;
 }
 
 .color-form {
-  display: block;
   margin-bottom: 10px;
 }
 
 .date-form {
-  display: block;
   margin-bottom: 10px;
-
 }
 
 .range-form {
-  display: block;
   margin-bottom: 10px;
-
-}
-
-.check-form {
-  display: block;
 }
 
 .time-form {
-  display: block;
   margin-bottom: 10px;
 }
 
 .radio-form {
-  display: block;
   margin-bottom: 10px;
 }
 
-.volume-form {
-  display: block;
-}
-
 .textarea-form {
-  display: block;
   margin-bottom: 10px;
 }
 
 .select-form {
-  display: block;
   margin-bottom: 10px;
 }
 
 .field {
   margin-bottom: 20px;
+}
+
+label {
+  display: block;
 }
